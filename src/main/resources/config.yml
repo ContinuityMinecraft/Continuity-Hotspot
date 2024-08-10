@@ -3,5 +3,5 @@ color: "&d"
 error-color: "&c"
 
 permissions:
-  hotspot-create: "hotspotplugin.create"
-  hotspot-tp: "hotspotplugin.tp"
+  hotspot-create: "hotspot.create"
+  hotspot-tp: "hotspot.tp"

@@ -1,9 +1,8 @@
 name: HotspotPlugin
 version: '${version}'
-main: org.capy.hotspotplugin.HotspotPlugin
+main: org.continuity.hotspot.HotspotPlugin
 api-version: '1.20'
 commands:
   hotspot:
     description: teleport to a hotspot
     usage: /hotspot [create]
-    permission: "hotspotplugin.tp"

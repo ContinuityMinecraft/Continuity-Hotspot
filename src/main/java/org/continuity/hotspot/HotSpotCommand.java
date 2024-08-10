@@ -1,4 +1,4 @@
-package org.capy.hotspotplugin;
+package org.continuity.hotspot;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

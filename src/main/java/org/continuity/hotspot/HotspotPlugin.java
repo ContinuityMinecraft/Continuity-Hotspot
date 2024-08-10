@@ -1,10 +1,9 @@
-package org.capy.hotspotplugin;
+package org.continuity.hotspot;
 
 import org.bukkit.Bukkit;
 import org.bukkit.permissions.Permission;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.util.HashMap;
 import java.util.logging.Logger;
 
 public final class HotspotPlugin extends JavaPlugin {
